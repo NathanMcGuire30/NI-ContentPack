@@ -1,0 +1,89 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name Deatomizer
+ShortName Deatomizer
+ItemID Your ID
+
+Description Nathan Industries
+
+
+// Visuals
+Model NathanPack.Deatomizer
+ModelScale 0.2
+Colour 255 255 255
+Icon Icon_Gun_Deatomizer
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.Deatomizer
+ModelScale 0.2
+Texture Skin_Gun_Deatomizer
+DeployedModel NathanPack.Deatomizer
+DeployedTexture Skin_Gun_Deatomizer
+
+
+//Damage
+Damage 13
+
+
+//Ammo
+Ammo DeatomizerAmmo
+Ammo DeatomizerAmmoNormal
+BulletSpeed 4
+
+
+//Attachments
+AllowAllAttachments True
+AllowBarrelAttachments False
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 2
+
+
+//Weapon Settings
+CanShootUnderwater True
+Accuracy 0
+Knockback 2000
+Mode FULLAUTO
+Recoil 0
+ReloadTime 55
+ShootDelay 4
+UsableByMechas True
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+FOVZoomLevel 1.0
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound M14Shoot
+ReloadSound BARReload
+
+//------------------------------------------------

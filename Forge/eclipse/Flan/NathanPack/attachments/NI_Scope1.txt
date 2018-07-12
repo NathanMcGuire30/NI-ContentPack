@@ -1,0 +1,72 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name ZX-11 Scope
+ShortName NI_Scope1
+
+
+// Visuals
+Model NathanPack.SniperScope1
+ModelScale 0.2
+Icon Icon_Gun_SniperScope1
+
+Description Nathan Industries
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+
+
+//Visual
+Model NathanPack.SniperScope1
+ModelScale 0.2
+Texture Skin_Gun_SniperScope1
+
+
+//Damage
+
+
+//Ammo
+
+
+//Attachments
+AttachmentType sights
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.0
+RecoilMultiplier 0.95
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.0
+ZoomLevel 3.0
+FOVZoomLevel 2.0
+ZoomOverlay NIZX11
+
+//Weapon Settings
+
+
+//Shield
+
+
+//Zoom
+
+
+NightVision true
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------

@@ -1,0 +1,71 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name AX9 Scope
+ShortName AX9Scope
+
+
+// Visuals
+Model NathanPack.AX9Scope
+ModelScale .1
+Icon Icon_Gun_AX9Scope
+
+
+Description Nathan Industries
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+
+
+//Visual
+
+Texture Skin_Gun_AX9Scope
+
+
+
+//Damage
+
+
+//Ammo
+
+
+//Attachments
+AttachmentType sights
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.0
+RecoilMultiplier 0.95
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.0
+ZoomLevel 2.0
+FOVZoomLevel 2.0
+ZoomOverlay NIAX9
+
+//Weapon Settings
+
+
+//Shield
+
+
+//Zoom
+
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------

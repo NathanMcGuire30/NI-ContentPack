@@ -1,0 +1,97 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name NIAR50
+ShortName NIAR50
+ItemID Your ID
+
+Description Nathan Industries
+
+// Visuals
+Model NathanPack.NIAR50
+ModelScale 0.35
+Colour 255 255 255
+Icon Icon_Gun_NIAR50
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.NIAR50
+ModelScale 0.35
+Texture Skin_Gun_NIAR50
+DeployedModel NathanPack.NIAR50
+DeployedTexture Skin_Gun_NIAR50
+paintjob Icon_Gun_NIAR50_Green Skin_Gun_NIAR50_Green green 2 
+paintjob Icon_Gun_NIAR50_Tan Skin_Gun_NIAR50_Tan yellow 2 
+paintjob Icon_Gun_NIAR50_Blue Skin_Gun_NIAR50_Blue blue 2 
+paintjob Icon_Gun_NIAR50_Black Skin_Gun_NIAR50_Black black 2
+paintjob Icon_Gun_NIAR50_White Skin_Gun_NIAR50_White white 2
+
+
+//Damage
+Damage 13
+
+
+//Ammo
+Ammo NIAR50Ammo
+Ammo NIAR50HollowAmmo
+Ammo NIXM500Ammo
+Ammo NIXM500HollowAmmo
+Ammo NIXM500HollowTrackingAmmo
+Ammo NIXM500TrackingAmmo
+BulletSpeed 20.0
+
+
+//Attachments
+AllowAllAttachments True
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 2
+
+
+//Weapon Settings
+CanShootUnderwater True
+Accuracy 4
+Knockback 5
+Mode SEMIAUTO
+Recoil 10
+ReloadTime 55
+ShootDelay 4
+UsableByMechas True
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+FOVZoomLevel 1.0
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound M14Shoot
+ReloadSound BARReload
+
+//------------------------------------------------

@@ -1,0 +1,89 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name Laser Rifle
+ShortName LaserRifle1
+ItemID Your ID
+
+Description Nathan Industries
+
+
+// Visuals
+Model NathanPack.LaserRifle1
+ModelScale 0.13
+Colour 255 255 255
+Icon Icon_Gun_LaserRifle1
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.LaserRifle1
+ModelScale 0.13
+Texture Skin_Gun_LaserRifle1
+DeployedModel NathanPack.LaserRifle1
+DeployedTexture Skin_Gun_LaserRifle1
+paintjob Icon_Gun_LaserRifle1_White Skin_Gun_LaserRifle1_White white 2 
+
+
+//Damage
+Damage 13
+
+
+//Ammo
+Ammo LaserAmmo
+BulletSpeed 10.0
+
+
+//Attachments
+AllowAllAttachments True
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 2
+
+
+//Weapon Settings
+CanShootUnderwater False
+Accuracy 0
+Knockback 0
+Mode SEMIAUTO
+Recoil 0
+ReloadTime 55
+ShootDelay 2
+UsableByMechas True
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+FOVZoomLevel 1.0
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound NILaserShoot
+ReloadSound BARReload
+
+//------------------------------------------------

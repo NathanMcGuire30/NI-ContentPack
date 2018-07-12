@@ -1,0 +1,11 @@
+{
+	"NILaserShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:NILaserShoot" ]
+	},
+
+	"RailgunShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RailgunShoot" ]
+	}
+}

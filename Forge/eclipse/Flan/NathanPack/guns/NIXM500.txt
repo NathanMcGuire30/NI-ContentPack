@@ -1,0 +1,98 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name NIXM500
+ShortName NIXM500
+ItemID Your ID
+
+Description Nathan Industries
+
+// Visuals
+Model NathanPack.NIXM500
+ModelScale 0.35
+Colour 255 255 255
+Icon Icon_Gun_NIXM500
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.NIXM500
+ModelScale 0.35
+Texture Skin_Gun_NIXM500
+DeployedModel NathanPack.NIXM500
+DeployedTexture Skin_Gun_NIXM500
+paintjob Icon_Gun_NIXM500_Green Skin_Gun_NIXM500_Green green 3
+paintjob Icon_Gun_NIXM500_Tan Skin_Gun_NIXM500_Tan yellow 3 
+paintjob Icon_Gun_NIXM500_Blue Skin_Gun_NIXM500_Blue blue 3 
+paintjob Icon_Gun_NIXM500_Black Skin_Gun_NIXM500_Black black 3
+paintjob Icon_Gun_NIXM500_White Skin_Gun_NIXM500_White white 3
+
+
+//Damage
+Damage 25
+
+
+//Ammo
+Ammo NIXM500Ammo
+Ammo NIXM500HollowAmmo
+Ammo NIXM500ExplosiveAmmo
+Ammo NIXM500ExplosiveTrackingAmmo
+Ammo NIXM500HollowTrackingAmmo
+Ammo NIXM500RocketAmmo
+Ammo NIXM500TrackingAmmo
+BulletSpeed 20.0
+
+
+//Attachments
+AllowAllAttachments True
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 2
+
+
+//Weapon Settings
+CanShootUnderwater True
+Accuracy 2
+Knockback 5
+Mode SEMIAUTO
+Recoil 17
+ReloadTime 50
+ShootDelay 12
+UsableByMechas True
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+FOVZoomLevel 1.0
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound BarrettShoot
+ReloadSound BARReload
+
+//------------------------------------------------

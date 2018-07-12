@@ -1,0 +1,84 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name NoisyCricket
+ShortName NoisyCricket
+ItemID Your ID
+
+
+// Visuals
+Model NathanPack.NoisyCricket
+ModelScale 0.2
+Colour 255 255 255
+Icon Icon_Gun_NoisyCricket
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.NoisyCricket
+ModelScale 0.2
+Texture Skin_Gun_NoisyCricket
+DeployedModel NathanPack.NoisyCricket
+DeployedTexture Skin_Gun_NoisyCricket
+
+
+//Damage
+Damage 1
+
+
+//Ammo
+Ammo CricketAmmo
+BulletSpeed 5
+
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments False
+AllowStockAttachments False
+AllowGripAttachments False
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+CanShootUnderwater False
+Accuracy 0
+Knockback 15F
+KnockbackModifier 0
+Mode SEMIAUTO
+OneHanded True
+Recoil 100
+ReloadTime 1
+ShootDelay 1
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------

@@ -1,0 +1,65 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name NI Silencer
+ShortName NI_Silencer
+
+
+// Visuals
+Model NathanPack.NISilencer
+ModelScale .16
+Icon Icon_Gun_NISilencer
+
+Description Nathan Industries
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+
+
+//Visual
+Texture Skin_Gun_NISilencer
+
+
+//Damage
+
+
+//Ammo
+
+
+//Attachments
+AttachmentType barrel
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.1
+SpreadMultiplier 0.95
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1.1
+ReloadTimeMultiplier 0.95
+
+//Weapon Settings
+
+
+//Shield
+
+
+//Zoom
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------
