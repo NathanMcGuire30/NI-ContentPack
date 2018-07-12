@@ -1,0 +1,12 @@
+Backup/
+Model Storage/
+Other_Source/
+
+.gitattributes
+Config.dat
+ConfigDB.dat
+ErrorLog.txt
+License.dat
+Packages.dat
+Stock Dimensions.txt
+Turrets.dat
