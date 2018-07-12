@@ -1,0 +1,66 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name AVS Sight
+ShortName NIAVSSight
+
+
+// Visuals
+Model NathanPack.NIAVSsight
+ModelScale .04
+Icon Icon_Gun_NIReflexSight
+
+Description Nathan Industries
+
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+
+
+//Visual
+Texture Skin_Gun_NIAVSsight
+
+
+
+//Damage
+
+
+//Ammo
+
+
+//Attachments
+AttachmentType sights
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.0
+RecoilMultiplier 0.95
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.0
+ZoomLevel 1.0
+FOVZoomLevel 3.0
+
+//Weapon Settings
+
+
+//Shield
+
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------

@@ -1,0 +1,14 @@
+Name Pegasus-Overhaul Legs
+ShortName dwWingbreakerPonyLegs
+Icon ambirconLegsPack
+Colour 255 255 255
+Type Legs
+Model dwdefence.WingbreakerPonyLegs
+Defence 0.1
+ArmourTexture Ambircon_WingbreakerUniform
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+ModelScale 0.5
+
+ShapelessRecipe dwABTArmorBox dwBrassCog dwWingbreakerLegs

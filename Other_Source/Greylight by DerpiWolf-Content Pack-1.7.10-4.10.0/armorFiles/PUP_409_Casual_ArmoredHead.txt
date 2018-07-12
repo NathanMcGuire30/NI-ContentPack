@@ -1,0 +1,17 @@
+Name Armored Helmet
+ShortName dwArmoredHelmet
+Icon penbarArmoredHelmet
+Colour 255 255 255
+
+Type Head
+Model dwdefence.ArmoredHelmet
+Defence 0.15
+ArmourTexture Penbar_CasualUniform
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+SmokeProtection true
+
+ModelScale 0.5
+
+ShapelessRecipe dwGasMask dwRiotHelmet

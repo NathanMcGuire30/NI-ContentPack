@@ -1,0 +1,47 @@
+Name Penbar UP. Terminal
+ShortName penbarUrbanPolice
+TopTexture PenbarBoxTop
+SideTexture PenbarBoxSide
+BottomTexture boxBottom
+GunBoxID 320
+Recipe I ingotIron R dwReinforcedPolymer S dwMidSteelIngot C dwArmorCloth
+ I 
+RCR
+SSS
+//AddGun shortName amountOf item
+//AddAmmo must come immediately after AddGun for them to be in the same slot
+//The names of the items / blocks are those in the code, with some exceptions such as ingotIron (ingotingotIron) and gunpowder (sulphur)
+//And with parts from this mod, they are the shortName of the item
+//Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
+//NumGuns must come before all the addGun lines and must be correct.
+NumGuns 11
+
+AddGun dwMatriarchSnubShort 1 dwGunPart 1 dwMidSteelIngot 4 dwSteelIngot
+AddAmmo dwMatriarchSnubShortAmmo 6 dwMetalRounds 4 dwSteelIngot
+
+AddGun dwSilverSec 1 dwGunPart 10 ingotIron 4 dwSteelIngot
+AddAmmo dwSilverSecAmmo 10 dwMetalRounds 4 dwSteelIngot
+
+AddGun dwPup227 1 dwGunPart 2 dwMidSteelIngot 5 dwSteelIngot
+AddAmmo dwPup227Ammo 18 dwMetalRounds 6 dwSteelIngot
+
+AddGun dwBreacher870 1 dwReceiverPart 3 dwMidSteelIngot 2 wood
+AddAmmo dwBreacher870Ammo 1 dwMetalRounds 1 dwSteelIngot 4 gunpowder
+
+AddGun dwFlakwater 1 dwReceiverPart 5 dwMidSteelIngot 1 wood
+AddAmmo dwFlakwaterAmmo 1 dwMetalRounds 1 dwSteelIngot 2 gunpowder
+
+AddGun dwLuabella 1 dwReceiverPart 4 dwMidSteelIngot 4 dwReinforcedPolymer
+AddAmmo dwLuabellaAmmo 20 dwMetalRounds 1 dwMidSteelIngot
+
+AddGun dwCrm15 1 dwReceiverPart 4 dwMidSteelIngot 7 dwReinforcedPolymer 2 dwBallisticGlass
+AddAmmo dwCrm15Ammo 32 dwMetalRounds 2 dwMidSteelIngot
+
+AddGun dwPup762 2 dwReceiverPart 6 dwMidSteelIngot 2 dwReinforcedPolymer
+AddAmmo dwPup762Ammo 5 dwMetalRounds 3 dwMidSteelIngot
+
+AddGun dwControlShield 8 dwBallisticGlass 2 dwKipliteArmor
+
+AddGun dwBallisticShield 2 dwBallisticGlass 16 dwKipliteArmor 12 dwReinforcedPolymer 4 dwMidSteelIngot
+
+AddGun dwPupStandardScope 1 dwScopePart 4 dwMidSteelIngot

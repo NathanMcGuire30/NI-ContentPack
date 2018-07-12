@@ -1,0 +1,14 @@
+Name Ballistic Glass Plate
+ShortName dwBallisticGlass
+Icon part_BallisticGlass
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//ItemID 23899
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+RecipeOutput 4
+Recipe K dwKipliteArmor S dwMidSteelIngot G glass
+SSS
+KGK
+SSS

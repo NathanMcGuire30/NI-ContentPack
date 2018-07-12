@@ -1,0 +1,66 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name ARS Sight
+ShortName NIReflexSight
+
+
+// Visuals
+Model NathanPack.NIReflexSight
+ModelScale .04
+Icon Icon_Gun_NIReflexSight
+
+Description Nathan Industries
+
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+
+
+//Visual
+Texture Skin_Gun_NIReflexSight
+
+
+
+//Damage
+
+
+//Ammo
+
+
+//Attachments
+AttachmentType sights
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.0
+RecoilMultiplier 0.95
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.0
+ZoomLevel 1.0
+FOVZoomLevel 2.0
+
+//Weapon Settings
+
+
+//Shield
+
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------

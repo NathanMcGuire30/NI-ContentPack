@@ -1,0 +1,13 @@
+Name Lupine Lantern
+ShortName dwLupineLantern
+Icon LupineLanternHead
+Colour 255 255 255
+
+Type Head
+Model dwdefence.LupineLanternHead
+Defence 0.1
+ArmourTexture LupineLanternHead
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+ModelScale 0.5

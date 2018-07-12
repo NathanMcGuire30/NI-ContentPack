@@ -1,0 +1,51 @@
+Name Matriarch SS
+ShortName dwMatriarchScatter
+//The ammo this gun uses (shortName)
+Ammo dwMatriarchScatterAmmo
+Icon MatriarchScattershot
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 80
+Recoil 12
+Damage 2
+Accuracy 16
+NumBullets 10
+BulletSpeed 7.0
+ShootDelay 10
+ShootSound _SF2012Fire
+ReloadSound _OverwatchReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 2.0
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.MatriarchScatter
+Texture MatriarchScattershot_Steam
+
+//Attachment Settings
+AllowAttachments none
+AllowScopeAttachments false
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description Ambircon Technologies

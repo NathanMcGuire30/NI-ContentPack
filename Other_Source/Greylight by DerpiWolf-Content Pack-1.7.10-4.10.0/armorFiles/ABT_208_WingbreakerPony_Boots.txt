@@ -1,0 +1,14 @@
+Name Pegasus-Overhaul Boots
+ShortName dwWingbreakerPonyBoots
+Icon ambirconBootsPack
+Colour 255 255 255
+Type Boots
+Model dwdefence.WingbreakerPonyBoots
+Defence 0.1
+ArmourTexture Ambircon_WingbreakerUniform
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+ModelScale 0.5
+
+ShapelessRecipe dwABTArmorBox dwBrassCog dwWingbreakerBoots

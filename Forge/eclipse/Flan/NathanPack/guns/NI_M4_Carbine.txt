@@ -1,0 +1,87 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name M4 Carbine
+ShortName NI_M4_Carbine
+ItemID Your ID
+
+
+// Visuals
+Model NathanPack.M4_Carbine
+ModelScale 0.3
+Colour 255 255 255
+Icon Icon_Gun_M4_Carbine
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.M4_Carbine
+ModelScale 0.3
+Texture Skin_Gun_M4_Carbine
+DeployedModel NathanPack.M4_Carbine
+DeployedTexture Skin_Gun_M4_Carbine
+
+
+//Damage
+Damage 7
+
+
+//Ammo
+Ammo betaCMag
+Ammo m4CarbineAmmo
+
+Ammo m16a4Ammo
+BulletSpeed 10.0
+
+
+//Attachments
+AllowAllAttachments True
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 2
+Mode FULLAUTO
+Recoil 2
+ReloadTime 40
+ShootDelay 2
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound M14Shoot
+ReloadSound MP44Reload
+
+//------------------------------------------------

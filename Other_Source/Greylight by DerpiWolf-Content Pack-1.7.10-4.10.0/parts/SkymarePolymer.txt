@@ -1,0 +1,14 @@
+Name Skymare Polymer
+ShortName dwSkymarePolymer
+Icon part_SkymarePolymer
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//ItemID 23899
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+RecipeOutput 2
+Recipe F dwSkymareFiberglass C dwCrystallisedPolymer
+   
+FCF
+FCF

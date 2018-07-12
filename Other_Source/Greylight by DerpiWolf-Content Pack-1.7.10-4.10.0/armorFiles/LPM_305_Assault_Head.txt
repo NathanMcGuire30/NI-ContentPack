@@ -1,0 +1,18 @@
+Name Assault Helmet
+ShortName dwAssaultHead
+Icon lupineAssaultHead
+Colour 255 255 255
+
+Type Head
+Model dwdefence.AssaultHead
+Defence 0.2
+ArmourTexture LupineMilitaryArmor_A
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+ModelScale 0.5
+
+Recipe L leather A dwArmorCloth K dwKipliteArmor 
+KKK
+A A
+ L 

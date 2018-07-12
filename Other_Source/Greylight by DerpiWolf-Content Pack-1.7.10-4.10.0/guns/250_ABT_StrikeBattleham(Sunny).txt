@@ -1,0 +1,97 @@
+Name Battle Hammer
+ShortName dwStrikeBattleham
+//The ammo this gun uses (shortName)
+Icon Sunny
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 0
+Recoil 0
+Damage 0
+Accuracy 0
+//NumBullets 2
+BulletSpeed 0.0
+ShootDelay 0
+ShootSound none
+ReloadSound none
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.0
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.StrikeBattleham
+Texture StrikeBattleham_Steam
+
+//Attachment Settings
+AllowAttachments none
+AllowBarrelAttachments false
+AllowScopeAttachments false
+AllowStockAttachments false
+AllowGripAttachments false
+
+//Custom melee animation and hits
+UseCustomMelee True
+//The time it takes to perform a melee attack in ticks
+MeleeTime 20
+MeleeDamage 12
+
+//The point on the gun that does the damage
+MeleeDamagePoint 54 12 4
+MeleeDamagePoint 36 12 4
+MeleeDamagePoint 18 12 4
+MeleeDamagePoint 9 12 4
+MeleeDamagePoint 2 12 4
+MeleeDamagePoint 54 12 -4
+MeleeDamagePoint 36 12 -4
+MeleeDamagePoint 18 2 -4
+MeleeDamagePoint 9 12 -4
+MeleeDamagePoint 2 12 -4
+//Define the path along which the weapon point moves in model co-ordinates from the gun's origin
+AddNode 0 2 -6 0 0 4
+AddNode 0 8 -6 0 0 8
+AddNode 0 16 -6 0 0 13
+AddNode 0 20 -6 0 0 15
+AddNode 0 20 -6 0 0 15
+AddNode 0 20 -6 0 0 15
+AddNode 0 20 -6 0 0 15
+AddNode 1 16 -6 0 0 -12
+AddNode 1 8 -6 0 0 -48
+AddNode 1 -8 -6 0 0 -118
+AddNode 1 -16 -6 0 0 -154
+AddNode 1 -16 -6 0 0 -154
+AddNode 1 -16 -6 0 0 -154
+AddNode 1 -16 -6 0 0 -154
+AddNode 1 -16 -6 0 0 -154
+AddNode 1 -16 -6 0 0 -154
+AddNode 1 -8 -4 0 0 -77
+AddNode 0 0 -2 0 0 0
+AddNode 0 0 0 0 0 0
+
+//Recipe
+Recipe S dwSteelIngot M dwMidSteelIngot B dwIngotBrass
+MMM
+ S 
+ B 
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob SkyChaser_iconRedux SkyChaser_Redux blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description 'Sunny'_Ambircon Technologies

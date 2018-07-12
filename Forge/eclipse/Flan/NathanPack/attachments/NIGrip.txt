@@ -1,0 +1,61 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name NI GR-02 Advanced Hand Grip
+ShortName NIGrip
+ItemID Your ID
+
+
+// Visuals
+Model NathanPack.NIGrip
+ModelScale 0.22
+Icon Icon_Gun_NIGrip
+
+Description Nathan Industries
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+
+
+//Visual
+Texture Skin_Gun_NIGrip
+
+//Damage
+
+
+//Ammo
+
+
+//Attachments
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.8
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 0.9
+
+//Weapon Settings
+
+
+//Shield
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------

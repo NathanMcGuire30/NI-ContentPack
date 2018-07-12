@@ -1,0 +1,488 @@
+{
+	"_WolfstedtFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_WolfstedtFire" ]
+	},
+	
+	"_WolfstedtReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_WolfstedtReload" ]
+	},
+
+	"_MparFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_MparFire" ]
+	},
+
+	"_MparReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_MparReload" ]
+	},
+
+	"_WinnowFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_WinnowFire" ]
+	},
+
+	"_WinnowReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_WinnowReload" ]
+	},
+
+	"_GS5Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_GS5Fire" ]
+	},
+
+	"_GS5Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_GS5Reload" ]
+	},
+
+	"_ClockwingFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_ClockwingFire" ]
+	},
+
+	"_ClockwingReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_ClockwingReload" ]
+	},
+
+	"_CrossfireFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_CrossfireFire" ]
+	},
+
+	"_CrossfireReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_CrossfireReload" ]
+	},
+
+	"_Sc7Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_Sc7Fire" ]
+	},
+
+	"_Sc7Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_Sc7Reload" ]
+	},
+
+	"_PwrFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_PwrFire" ]
+	},
+
+	"_PwrReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_PwrReload" ]
+	},
+
+	"_DusterwingFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_DusterwingFire" ]
+	},
+
+	"_DusterwingReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_DusterwingReload" ]
+	},
+
+	"_FeathershockFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_FeathershockFire" ]
+	},
+
+	"_FeathershockReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_FeathershockReload" ]
+	},
+
+	"_CloudpuncherFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_CloudpuncherFire" ]
+	},
+
+	"_CloudpuncherReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_CloudpuncherReload" ]
+	},
+
+	"_HparReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_HparReload" ]
+	},
+
+	"_Grenade_throw_01": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_Grenade_throw_01" ]
+	},
+
+	"_Shock_grenade_expl_01": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_Shock_grenade_expl_01" ]
+	},
+
+	"_AmbirconSteamRifleFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_AmbirconSteamRifleFire" ]
+	},
+
+	"_AmbirconSteamRifleReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_AmbirconSteamRifleReload" ]
+	},
+
+	"_SteamSpinnakerFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SteamSpinnakerFire" ]
+	},
+
+	"_SteamSpinnakerReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SteamSpinnakerReload" ]
+	},
+
+	"_at51sp_smgReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_at51sp_smgReload" ]
+	},
+
+	"_RoselupHighwindFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_RoselupHighwindFire" ]
+	},
+
+	"_RoselupHighwindReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_RoselupHighwindReload" ]
+	},
+
+	"_OverwatchFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_OverwatchFire" ]
+	},
+
+	"_OverwatchReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_OverwatchReload" ]
+	},
+
+	"_RivetRailGunFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_RivetRailGunFire" ]
+	},
+
+	"_RivetRailGunReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_RivetRailGunReload" ]
+	},
+
+	"_SteelBlussFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SteelBlussFire" ]
+	},
+
+	"_SteelBlussReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SteelBlussReload" ]
+	},
+
+	"_InkstrikerFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_InkstrikerFire" ]
+	},
+
+	"_HVFPeforatorFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_HVFPeforatorFire" ]
+	},
+
+	"_HVFPeforatorReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_HVFPeforatorReload" ]
+	},
+
+	"_MFP15Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_MFP15Fire" ]
+	},
+
+	"_MFP15Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_MFP15Reload" ]
+	},
+
+	"_MFP33Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_MFP33Fire" ]
+	},
+
+	"_MFP33Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_MFP33Reload" ]
+	},
+
+	"_SF94Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF94Fire" ]
+	},
+
+	"_SF94Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF94Reload" ]
+	},
+
+	"_SF94AUReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF94AUReload" ]
+	},
+
+	"_SF2012Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF2012Fire" ]
+	},
+
+	"_SF2012Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF2012Reload" ]
+	},
+
+	"_KP12Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_KP12Reload" ]
+	},
+
+	"_RurhicvtsyFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_RurhicvtsyFire" ]
+	},
+
+	"_RurhicvtsyReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_RurhicvtsyReload" ]
+	},
+
+	"_SF112Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF112Fire" ]
+	},
+
+	"_SF112Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF112Reload" ]
+	},
+
+	"_SF370BFire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF370BFire" ]
+	},
+
+	"_SF370BReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_SF370BReload" ]
+	},
+
+	"_LK103Fire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_LK103Fire" ]
+	},
+
+	"_LK103Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:_LK103Reload" ]
+	},
+
+	"_MatriarchSnubShortReload": 
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_MatriarchSnubShortReload" ]
+	},
+
+	"_PUP762Fire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_PUP762Fire" ]
+	},
+
+	"_SilverSec28Fire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_SilverSec28Fire" ]
+	},
+
+	"_PUP227Fire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_PUP227Fire" ]
+	},
+
+	"_CRM15Fire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_CRM15Fire" ]
+	},
+
+	"_CRM15Reload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_CRM15Reload" ]
+	},
+
+	"_SkyswatterFire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_SkyswatterFire" ]
+	},
+
+	"_SkyswatterReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_SkyswatterReload" ]
+	},
+
+	"_LuabellaFire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_LuabellaFire" ]
+	},
+
+	"_LuabellaReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_LuabellaReload" ]
+	},
+
+	"_Breacher870Fire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_Breacher870Fire" ]
+	},
+
+	"_Breacher870Reload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_Breacher870Reload" ]
+	},
+
+	"_FlakwaterReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_FlakwaterReload" ]
+	},
+
+	"_AegisDisrupterFire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_AegisDisrupterFire" ]
+	},
+
+	"_AegisDisrupterReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_AegisDisrupterReload" ]
+	},
+
+	"_KGL40Fire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_KGL40Fire" ]
+	},
+
+	"_KGL40Reload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_KGL40Reload" ]
+	},
+
+	"_NeurotoxinFire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_NeurotoxinFire" ]
+	},
+
+	"_NeurotoxinReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_NeurotoxinReload" ]
+	},
+
+	"_SkyChaserFire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_SkyChaserFire" ]
+	},
+
+	"_SkyChaserReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_SkyChaserReload" ]
+	},
+
+	"_SkylighterFire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_SkylighterFire" ]
+	},
+
+	"_SkylighterReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_SkylighterReload" ]
+	},
+
+	"_StumbreonSteamerFire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_StumbreonSteamerFire" ]
+	},
+
+	"_StumbreonSteamerReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_StumbreonSteamerReload" ]
+	},
+
+	"_XM240Fire":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_XM240Fire" ]
+	},
+
+	"_XM240Reload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_XM240Reload" ]
+	},
+
+	"bow":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:bow" ]
+	},
+
+	"_MBTAutoCrossbowReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_MBTAutoCrossbowReload" ]
+	},
+
+	"_MBTCrossbowReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_MBTCrossbowReload" ]
+	},
+
+	"_PepperboxReload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_PepperboxReload" ]
+	},
+
+	"_UMX45Reload":
+	{
+		"catergory" : "player",
+		"sounds" : [ "flansmod:_UMX45Reload" ]
+	}
+}

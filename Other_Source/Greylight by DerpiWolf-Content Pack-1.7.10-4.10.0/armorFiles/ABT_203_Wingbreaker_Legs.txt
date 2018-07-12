@@ -1,0 +1,17 @@
+Name Wingbreaker Legs
+ShortName dwWingbreakerLegs
+Icon ambirconWingbreakerLegs
+Colour 255 255 255
+Type Legs
+Model dwdefence.WingbreakerLegs
+Defence 0.1
+ArmourTexture Ambircon_WingbreakerUniform
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+ModelScale 0.5
+
+Recipe C cloth L leather
+   
+LCL
+   

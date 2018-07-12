@@ -1,0 +1,88 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name Mercury SMG
+ShortName mercurysmg
+ItemID Your ID
+
+
+// Visuals
+Model NathanPack.mercurysmg
+ModelScale 0.25
+Colour 255 255 255
+Icon Icon_Gun_mercurysmg
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.mercurysmg
+ModelScale 0.25
+Texture Skin_Gun_mercurysmg
+DeployedModel NathanPack.mercurysmg
+DeployedTexture Skin_Gun_mercurysmg
+
+paintjob Icon_Gun_mercurysmg_Green Skin_Gun_mercurysmg_Green green 2 
+paintjob Icon_Gun_mercurysmg_Tan Skin_Gun_mercurysmg_Tan yellow 2 
+paintjob Icon_Gun_mercurysmg_Blue Skin_Gun_mercurysmg_Blue blue 2 
+paintjob Icon_Gun_mercurysmg_White Skin_Gun_mercurysmg_White white 2 
+
+//Damage
+Damage 8
+
+
+//Ammo
+Ammo betaCMag
+BulletSpeed 10.0
+
+
+//Attachments
+AllowAllAttachments True
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 3
+Mode FULLAUTO
+Recoil 3
+ReloadTime 40
+ShootDelay 2
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound FNSCARShoot
+ReloadSound MP44Reload
+
+//------------------------------------------------

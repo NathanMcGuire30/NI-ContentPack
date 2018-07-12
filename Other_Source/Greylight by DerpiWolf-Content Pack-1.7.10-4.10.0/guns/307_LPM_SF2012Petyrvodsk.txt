@@ -1,0 +1,52 @@
+Name SF-2012 Petyr
+ShortName dwSf2012p
+//The ammo this gun uses (shortName)
+Ammo dwSf2012pAmmo
+Icon SF2012Petyr
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 70
+Recoil 5
+Damage 3
+Accuracy 21 //1 = Accurate, 20+ = Shotgun 
+//LoadIntoGun 1
+NumBullets 12
+BulletSpeed 7.0
+ShootDelay 10
+ShootSound _SF2012Fire
+ReloadSound _SF2012Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.SF2012Petyr
+Texture SF2012Petyrvodsk_Standard
+
+//Attachment Settings
+AllowAttachments dwLpmRedDotSight dwLpmHoloSight dwLpmTacticalStock
+AllowScopeAttachments true
+AllowStockAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description Lupine Military

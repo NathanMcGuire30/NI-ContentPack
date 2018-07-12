@@ -1,0 +1,54 @@
+Name AMB SteamRifle
+ShortName dwAmbirconSteamRifle
+//The ammo this gun uses (shortName)
+Ammo dwAmbirconSteamRifleAmmo
+Icon AmbirconSteamRifle
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 60
+Recoil 4
+Damage 7
+Accuracy 6
+//NumBullets 1
+BulletSpeed 10.0
+ShootDelay 3
+ShootSound _AmbirconSteamRifleFire
+ReloadSound _AmbirconSteamRifleReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.AmbirconSteamRifle
+Texture AmbirconSteamRifle_Steam
+
+//Attachment Settings
+AllowAttachments dwAbtHoloSight dwAbtAmbirconSight dwAbtReflexSight dwAbtApertureSight dwAbtHeatsinkRail dwAbtModernRail dwAbtLanternRail dwAbtMpRail dwAbtTorchRail dwAbtSharedMuzzleBrake
+AllowScopeAttachments true
+AllowGripAttachments true
+AllowBarrelAttachments true
+NumGenericAttachmentSlots 1
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+Paintjob AmbirconSteamRifle_iconContractor AmbirconSteamRifle_Contractor gray 1 silver 1 brown 1
+
+
+//Owner DerpiWolf
+
+Description Ambircon Technologies

@@ -1,0 +1,14 @@
+Name Electrical Unit
+ShortName dwElectricalUnit
+Icon part_ElectricalUnit
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//ItemID 23899
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+RecipeOutput 2
+Recipe D dwElectricDust E dwIngotElectric R diode S dwSteelIngot
+SDS
+ERE
+SDS

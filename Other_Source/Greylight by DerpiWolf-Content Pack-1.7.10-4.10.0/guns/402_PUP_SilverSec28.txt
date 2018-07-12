@@ -1,0 +1,55 @@
+Name Silver Sec .28
+ShortName dwSilverSec
+//The ammo this gun uses (shortName)
+Ammo dwSilverSecAmmo
+Icon SilverSec28
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 55
+Recoil 2
+Damage 7
+Accuracy 9
+NumBullets 1
+BulletSpeed 10.0
+ShootDelay 5
+ShootSound _SilverSec28Fire
+ReloadSound _RurhicvtsyReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Show Information
+Description Penbar Urban Police
+ShowDamage true
+ShowAccuracy true
+ShowReloadTime true
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.SilverSec28
+Texture SilverSec28_Urban
+
+//Attachment Settings
+AllowAttachments false
+AllowScopeAttachments false
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf

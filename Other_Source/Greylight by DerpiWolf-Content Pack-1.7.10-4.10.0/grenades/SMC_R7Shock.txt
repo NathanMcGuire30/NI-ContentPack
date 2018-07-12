@@ -1,0 +1,62 @@
+////Name and icon
+Name R7 Shock Grenade
+ShortName dwShockSkymare
+Icon SMCgrenade_Shock
+//Colour in Red, Green, Blue, each going up to 255
+Colour 255 255 255
+////Item and recipe
+StackSize 2
+////Visuals
+Model dwfirearms.ShockGrenadeSMC
+Texture ShockGrenadeHD_SMC
+
+TrailParticles false
+//TrailParticleType <particleType>
+ExplodeParticles 0
+//ExplodeParticleType <particleType>
+SmokeTime 10
+//SmokeParticles <particleType>
+
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+
+SmokeEffect 2 100 3
+SmokeEffect 18 80 1
+SmokeEffect 7 1 1
+
+SmokeRadius 6
+SpinWhenThrown true
+////Throwing
+CanThrow True
+ThrowDelay 10
+ThrowSound _Grenade_throw_01
+//DropItemOnThrow <itemID.damage>
+
+////Physics
+DetonateOnImpact false
+Bounciness 0.8
+HitEntityDamage 1
+ThrowSpeed 2.0
+FallSpeed 1.0
+BreaksGlass true
+PenetratesBlocks false
+HitBoxSize 0.5
+Sticky false
+//BounceSound <sound>
+////Detonation conditions
+VehicleProximityTrigger -1.0
+LivingProximityTrigger -1.0
+Fuse 80
+DetonateWhenShot true
+Remote false
+//DespawnTime 0
+PrimeDelay 0
+////Detonation
+FireRadius 0.0
+ExplosionRadius 0.0
+ExplosionBreaksBlocks false
+//DropItemOnDetonate <itemID.damage>
+DetonateSound _Shock_grenade_expl_01
+////Misc
+MeleeDamage 1

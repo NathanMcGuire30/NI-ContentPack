@@ -1,0 +1,306 @@
+// AU-English
+
+//Weapon List
+
+// Skymare Corporation --------------------------------------------------------
+tile.skymareCorporation.name= SkyMare Corporation Terminal
+item.dwGs5.name= GS-5
+item.dwGs5Ammo.name= GS-5 Magazine
+item.dwGs5ShockAmmo.name= GS-5 Shock Magazine
+item.dwMpar.name= MPAR
+item.dwMparAmmo.name= MPAR Magazine
+item.dwCrossfire.name= Crossfire
+item.dwCrossfireAmmo.name= Crossfire Shell
+item.dwPwr57.name= PWR-57
+item.dwPwrAmmo.name= PWR Magazine
+item.dwSc7.name= SC7-SPEC
+item.dwSc7Ammo.name= SC7-SPEC Magazine
+item.dwGsx.name= GSX
+item.dwGsxAmmo.name= GSX Magazine
+item.dwFeathershock.name= Feathershock AR
+item.dwFeathershockAmmo.name= Feathershock Clip
+item.dwHpar.name= HPAR
+item.dwHparAmmo.name= HPAR Drum Magazine
+item.dwCloudpuncher.name= CloudPuncher A3
+item.dwCloudpuncherAmmo.name= CloudPuncher Clip
+item.dwDusterwing.name= Dusterwing
+item.dwDusterwingAmmo.name= Dusterwing Magazine
+item.dwDuskDusterwing.name= Dusk's Dusterwing
+item.dwDuskDusterwingAmmo.name= Modified Dusterwing Magazine
+item.dwInkstriker45.name= Inkstriker .45
+item.dwInkstriker45Ammo.name= Inkstriker Magazine
+item.dwMatriarchSkymare.name= Matriarch Skymare
+item.dwMatriarchSkymareAmmo.name= Matrirarch Skymare Clip
+item.dwSkyswatter.name= Skyswatter FAA
+item.dwSkyswatterAmmo.name= Skyswatter Rocket
+item.dwSkyswatterTrackAmmo.name= Skyswatter MobTrack Rocket
+item.dwAegisDisrupter.name= Aegis Distrupter
+item.dwAegisDisrupterAmmo.name= Aegis Magazine
+item.dwSkylighter.name= Skylighter IAX
+item.dwSkylighterAmmo.name= Skylighter Battery Clip
+item.dwSkyChaser.name= SkyChaser .45
+item.dwSkyChaserAmmo.name= SkyChaser Magazine
+item.dwUmx45.name= UMX .45
+item.dwUmx45Ammo.name= UMX Magazine
+
+item.dwSmcReflexSight.name= Reflex Sight
+item.dwSmcCompactHoloSight.name= Compact Holographic Sight
+item.dwSmcFlipSight.name= Feathershock Flip Sight
+item.dwSmcMilspecSight.name= Milspec Sight
+item.dwSmcNightScope.name= Nightstick Sniper Scope
+item.dwSmcPipeStock.name= Pipe Stock
+item.dwSmcPistolComp.name= Pistol Compensator
+item.dwSmcPistolLight.name= Pistol Flashlight
+item.dwSmcPistolSuppressor.name= Pistol Suppressor
+item.dwSmcRedDotSight.name= Red Dot Sight
+item.dwSmcRifleGrip.name= Rifle Grip
+item.dwSmcSpeedMod.name= Round Accelerator Mod
+item.dwSmcSharedMuzzleBrake.name= Shared Muzzle Brake
+item.dwSmcSharedSuppressor.name= Shared Suppressor
+item.dwSmcShotgunComp.name= Shotgun Compensator
+item.dwSmcSMTPStock.name= SMTP Stock
+item.dwSmcSolidStock.name= Solid Stock
+item.dwSmcStandardLight.name= Standard Flashlight
+item.dwSmcSuppressorSmg.name= SMG Suppressor
+item.dwSmcThreatSight.name= Threat Sight
+
+item.dwFragSkymare.name= M214 Frag Grenade
+item.dwShockSkymare.name= R7 Shock Grenade
+
+//Armor List
+item.dwContractorHead.name= Skymare Contractor Headgear
+item.dwContractorBody.name= Skymare Contractor Uniform
+item.dwContractorLegs.name= Skymare Contractor Pants
+item.dwContractorBoots.name= Skymare Contractor Boots
+
+
+// Ambircon Technologies ------------------------------------------------------
+tile.ambirconTechnologies.name= Ambircon Technologies Terminal
+tile.extractorBlock.name= Brass Extractor
+item.dwWolfstedt.name= Wolfstedt Compact
+item.dwWinnow.name= Winnow AP
+item.dwWolfstedtAmmo.name= Wolfstedt Magazine
+item.dwWinnowAmmo.name= Winnow Clip
+item.dwClockwing.name= ClockWing .67
+item.dwClockwingAmmo.name= ClockWing Rounds
+item.dwRoselup.name= Roselup Highwind
+item.dwRoselupAmmo.name= Roselup Drum Magazine
+item.dwAmbirconSteamRifle.name= Ambircon SteamRifle
+item.dwAmbirconSteamRifleAmmo.name= SteamRifle Magazine
+item.dwAt51sp.name= AT51-SP
+item.dwAt51spAmmo.name= At51 Straight Magazine
+item.dwSCSpinnaker.name= Steam-Clocked Spinnaker
+item.dwSCSpinnakerAmmo.name= Spinnaker Ammo Box
+item.dwOverwatch.name= Overwatch
+item.dwOverwatchAmmo.name= Overwatch Rounds
+item.dwKrystalOverwatch.name= Krystal's Overwatch
+item.dwKrystalOverwatchAmmo.name= Modified Overwatch Rounds
+item.dwSteelBluss.name= Steel Monochromatic Bluss
+item.dwSteelBlussAmmo.name= Steel Fragmentative Bullet
+item.dwRivetRailGun.name= RivetRail Gun
+item.dwRivetRailGunAmmo.name= RivetRail Magazine
+item.dwHVFPeforator.name= HVF Peforator
+item.dwHVFPeforatorAmmo.name= HVF Peforator Clip
+item.dwMatriarchScatter.name= Matriarch Scattershot
+item.dwMatriarchScatterAmmo.name= Matriarch Scattershot Clip
+item.dwNeurotoxinRifle.name= Neurotoxin MusketRifle
+item.dwNeurotoxinRifleAmmo.name= Neurotoxin Clip
+item.dwPepperbox.name= Spintel Pepperbox
+item.dwPepperboxAmmo.name= Pepperbox Clip
+item.dwStumbreonSV.name= Stumbreon SV
+item.dwStumbreonSVAmmo.name= Stumbreon SV Magazine
+item.dwStumbreonSteamer.name= Stumbreon Pneumatic Steamer
+item.dwStumbreonSteamerAmmo.name= Stumbreon Steam Canister
+
+item.dwAbtAmbirconSight.name= Ambircon Sight
+item.dwAbtHoloSight.name= Holographic Sight
+item.dwAbtHeatsinkRail.name= Heatsink Frontrail
+item.dwAbtModernRail.name= Modernised Frontrail
+item.dwAbtLanternRail.name= Lantern Frontrail
+item.dwAbtMpRail.name= Multi-Purpose Frontrail
+item.dwAbtTorchRail.name= Compact Light Frontrail
+item.dwAbtRoundRail.name= Rounded Frontrail
+item.dwAbtAmbirconStock.name= Ambircon Stock
+item.dwAbtApertureSight.name= Aperture Sight
+item.dwAbtFullStock.name= Full Solid Stock
+item.dwAbtIronStock.name= Iron Pipe Stock
+item.dwAbtPressureStock.name= Pressure Tank Stock
+item.dwAbtReflexSight.name= Reflex Sight
+item.dwAbtSharedMuzzleBrake.name= Shared MuzzleBrake
+item.dwAbtSharedSilencer.name= Shared Suppressor
+
+item.dwFragAmbircon.name= AGS Can Bomb
+item.dwFlashAmbircon.name= AGS Concussion Bomb
+item.dwSmokeAmbircon.name= Quick-Producing Steam Bomb
+
+//Armor List
+item.dwWingbreakerPonyHead.name= Ambircon Pegasus-Overhaul Head
+item.dwWingbreakerPonyBody.name= Ambircon Pegasus-Overhaul Body
+item.dwWingbreakerPonyLegs.name= Ambircon Pegasus-Overhaul Legs
+item.dwWingbreakerPonyBoots.name= Ambircon Pegasus-Overhaul Boots
+
+item.dwWingbreakerHead.name= Ambircon Wingbreaker Headgear
+item.dwWingbreakerBody.name= Ambircon Wingbreaker Uniform
+item.dwWingbreakerLegs.name= Ambircon Wingbreaker Pants
+item.dwWingbreakerBoots.name= Ambircon Wingbreaker Boots
+
+
+// Lupine Military ------------------------------------------------------------
+tile.lupineMilitary.name= Lupine Military Terminal
+item.dwMfp15.name= MFP-15
+item.dwMfp15Ammo.name= MFP-15 Magazine
+item.dwMfp33.name= MFP-33 Shock
+item.dwMfp33Ammo.name= MFP-33 Magazine
+item.dwRurhicvtsy87.name= Rurhicvtsy 87
+item.dwRurhicvtsy87Ammo.name= Rurhicvtsy Magazine
+item.dwMapmp.name= Mакотерти MP
+item.dwMapmpAmmo.name= Mакотерти Magazine
+item.dwSf94au.name= SF-94AU
+item.dwSf94auAmmo.name= SF-94AU Magazine
+item.dwKp12.name= KP-12
+item.dwKp12Ammo.name= KP-12 Shell
+item.dwSf2012p.name= SF-2012 Petyrvodsk
+item.dwSf2012pAmmo.name= SF-2012 Clip
+item.dwSf94.name= SF-94
+item.dwSf94Ammo.name= SF-94 Magazine
+item.dwSf112.name= SF-112
+item.dwSf112Ammo.name= SF-112 Magazine
+item.dwSf370b.name= SF-370B
+item.dwSf370bAmmo.name= SF-370B Box
+item.dwLk103.name= LK-103
+item.dwLk103Ammo.name= LK-103 Rocket
+item.dwMatriarchR015.name= Matriarch R015
+item.dwMatriarchR015Ammo.name= Matriarch R015 Clip
+item.dwKgl40.name= KGL-40mm
+item.dwKgl40Ammo.name= KGL Frag Round
+item.dwMbtCrossbow.name= MBT Repeater
+item.dwMbtCrossbowAmmo.name= LM Crossbow Bolt
+item.dwMbtCrossbowAdvancedAmmo.name= LM High-Velocity Bolt
+item.dwMbtAutoCrossbow.name= MBT-Auto Repeater
+item.dwMbtAutoCrossbowAmmo.name= MBT Crossbow Magazine 
+item.dwXm240.name= XM240 Flamethrower
+item.dwXm240Ammo.name= XM240 Blazite Canister 
+
+item.dwLpmAimpointSight.name= Aimpoint Sight
+item.dwLpmAngledGrip.name= Angled Grip
+item.dwLpmAssaultLight.name= Assault Flashlight
+item.dwLpmAssaultGrip.name= Assault Grip
+item.dwLpmCarbineKit.name= MFP Carbine Kit
+item.dwLpmHoloSight.name= Holographic Sight
+item.dwLpmPistolLight.name= Pistol Flashlight
+item.dwLpmPistolGrip.name= Pro Pistol Handlegrip
+item.dwLpmPistolLaser.name= Pistol Laser Sight
+item.dwLpmRedDotSight.name= Red Dot Sight
+item.dwLpmTacticalStock.name= Tactical Stock
+item.dwLpmWoodenStock.name= Wooden Stock
+
+//Armor List
+item.dwLupineArmorBasic.name= Lupine Civilian Armor
+item.dwLupineArmorStandard.name= Lupinian Beta-A1 Armor
+item.dwLupineArmorStandardB.name= Lupinian Beta-A2 Armor
+item.dwLupineArmorTactical.name= LMSS Tactical Armor
+item.dwAssaultHead.name= Lupine Assault Helmet
+item.dwAssaultBody.name= Lupine Assault Uniform
+item.dwAssaultLegs.name= Lupine Assault Pants
+item.dwAssaultBoots.name= Lupine Assault Boots
+
+item.dwLupineInjectorHeal.name= FirstAid Auto-Injector
+item.dwLupineInjectorCombat.name= Combat Auto-Injector
+item.dwLupineInjectorSpeed.name= Adrenaline Auto-Injector
+item.dwFragLupine.name= MP75 Frag Grenade
+item.dwFlameLupine.name= Primed Blazite Canister
+item.dwRocketLupine.name= Primed RHA Rocket
+item.dwLupineC4.name= RHA Explosives
+item.dwLupineRemote.name= LPM Remote
+
+
+// Penbar Urban Police --------------------------------------------------------
+tile.penbarUrbanPolice.name= Penbar Urban Police Terminal
+item.dwMatriarchSnubShort.name= Matriarch SnubShort
+item.dwMatriarchSnubShortAmmo.name= Matriarch SnubShort Clip
+item.dwSilverSec.name= Silver Sec .28
+item.dwSilverSecAmmo.name= Silver Sec Magazine
+item.dwPup227.name= PUP .227
+item.dwPup227Ammo.name= PUP .227 Magazine
+item.dwBreacher870.name= Breacher 870
+item.dwBreacher870Ammo.name= Breacher Shell
+item.dwFlakwater.name= Flakwater M550
+item.dwFlakwaterAmmo.name= Flakwater Shell
+item.dwLuabella.name= Luabella Carbine
+item.dwLuabellaAmmo.name= Luabella Carbine Magazine
+item.dwCrm15.name= CRM-15
+item.dwCrm15Ammo.name= CRM-15 Magazine
+item.dwPup762.name= PUP 7.62
+item.dwPup762Ammo.name= PUP 7.62 Clip
+
+item.dwControlShield.name= Lightweight Riot Shield
+item.dwBallisticShield.name= Ballistic Riot Shield
+item.dwPenbarSentryGun.name= Penbar UP Sentry Turret
+
+item.dwPupStandardScope.name= Standard Sniper Scope
+item.dwPupStubbySilencer.name= Stubby Suppressor
+
+//Armor List
+item.dwCasualHat.name= PUP Casual Hat
+item.dwCasualBody.name= PUP Casual Uniform
+item.dwCasualLegs.name= PUP Casual Pants
+item.dwCasualBoots.name= PUP Casual Boots
+item.dwSunnyGear.name= 'Sunny Gear'
+item.dwGasMask.name= PUP Gas Mask
+item.dwRiotHelmet.name= PUP Riot Helmet
+item.dwPenbarHeadgear.name= Penbar HeadGear
+item.dwArmoredHelmet.name= PUP Armored Helmet
+
+
+// Melee Weapons --------------------------------------------------------
+item.dwSkyshocker.name= Skyshocker Sword
+item.dwStrikeBattleham.name= Strike Battleham
+item.dwCarbonKnife.name= LPM Combat Knife
+item.dwPoliceBaton.name= PUP Baton
+
+//Misc Parts
+item.dwElectricDust.name= Electrical Dust
+item.dwIngotElectric.name= Electrical Ingot
+item.dwElectricalUnit.name= Electrical Unit
+item.dwDustIron.name= Dusted Iron
+item.dwSteelIngot.name= Low-Quality Steel
+item.dwSugarIngot.name= Sugar Ingot
+item.dwUnfiredFiberglass.name= Unfired Fiberglass
+item.dwCrystallisedPolymer.name= Crystallised Polymer
+item.dwSkymareFiberglass.name= Skymare Fiberglass
+item.dwSkymarePolymer.name= Skymare Polymer
+item.dwReinforcedPolymer.name= Reinforced Polymer
+item.dwPolymerMass.name= Steel Polymer Mass
+item.dwSpinneret.name= Single-Use Spinneret
+item.dwKipliteArmor.name= Kiplite Armor
+item.dwLiquidGlowstone.name= Liquid Glowstone Vial
+item.dwCopperPellets.name= Copper Pellets
+item.dwZincPellets.name= Zinc Pellets
+item.dwBrassDust.name= Copper and Zinc Mix
+item.dwIngotBrass.name= Gunmetal Brass
+item.dwBrassRod.name= Cartridge Brass Rod
+item.dwRedwood.name= Redwood Material
+item.dwBrassCog.name= Brass Cog
+item.dwArmorCloth.name= Reinforced Cloth
+item.dwMidSteelIngot.name= Mid-Quality Steel
+item.dwBallisticGlass.name= Balistic Glass Pane
+item.dwABTArmorBox.name= Ambircon Armor Box
+item.dwBlaziteFuelKit.name= Blazite Fuel Kit
+item.dwBlaziteFuel.name= Blazite Fuel
+
+item.dwBrassRounds.name= Brass Rounds
+item.dwMetalRounds.name= Metal Rounds
+item.dwShockRounds.name= Shock Rounds
+item.dwIncendiaryRounds.name= Incendiary Rounds
+item.dwGunBarrel.name= Gun Barrel
+item.dwGunPart.name= Assorted Gun Parts
+item.dwReceiverPart.name= Rifle Receiver Part
+item.dwScopePart.name= Scope Frame Part
+item.dwGrenadePin.name= Detonator Pin Part
+
+item.dwSightDetachment.name= Scope Detachment Mod
+item.dwStockDetachment.name= Stock Detachment Mod
+
+item.dwSecurityCameraHead.name= IC Security Head
+item.dwCreeperLantern.name= Creeper Lantern Head
+item.dwLupineLantern.name= Lupine Lantern Head

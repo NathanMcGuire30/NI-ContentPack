@@ -1,0 +1,56 @@
+Name CloudPuncher
+ShortName dwCloudpuncher
+//The ammo this gun uses (shortName)
+Ammo dwCloudpuncherAmmo
+Icon CloudPuncher
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 90
+Recoil 10
+Damage 12
+Accuracy 3
+//NumBullets 1
+BulletSpeed 10.0
+ShootDelay 21
+ShootSound _CloudpuncherFire
+ReloadSound _CloudpuncherReload
+Mode SemiAuto
+Scope threatSightOverlay
+ZoomLevel 2.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.CloudPuncherA3
+Texture CloudPuncherA3_Standard
+
+//Attachment Settings
+AllowAttachments dwSmcFlipSight dwSmcMilspecSight dwSmcNightScope dwSmcSolidStock dwSightDetachment
+
+AllowBarrelAttachments false
+AllowScopeAttachments true
+AllowStockAttachments true
+
+//Default Scope - Threat Sight
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+Paintjob CloudPuncher_iconBlackout CloudPuncherA3_Blackout white 1 black 1
+
+
+//Owner DerpiWolf
+
+Description SkyMare Corporation

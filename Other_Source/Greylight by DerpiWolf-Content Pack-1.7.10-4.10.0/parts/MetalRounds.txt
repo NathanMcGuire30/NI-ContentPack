@@ -1,0 +1,14 @@
+Name Metal Rounds
+ShortName dwMetalRounds
+Icon part_MetalRounds
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//ItemID 23899
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+RecipeOutput 16
+Recipe G gunpowder I ingotIron
+   
+IGG
+   

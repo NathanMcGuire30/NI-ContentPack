@@ -1,0 +1,10 @@
+Name Copper Pellets
+ShortName dwCopperPellets
+Icon part_CopperPellets
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//ItemID 23900
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+   

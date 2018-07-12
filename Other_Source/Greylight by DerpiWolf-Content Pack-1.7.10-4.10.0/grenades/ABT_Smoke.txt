@@ -1,0 +1,57 @@
+////Name and icon
+Name Smoke Bomb
+ShortName dwSmokeAmbircon
+Icon ABTgrenade_Smoke
+//Colour in Red, Green, Blue, each going up to 255
+Colour 255 255 255
+StackSize 4
+
+////Visuals
+Model dwfirearms.SmokeGrenadeABT
+Texture GrenadesHD_ABT
+TrailParticles true
+TrailParticleType smoke
+ExplodeParticles 0
+//ExplodeParticleType <particleType>
+SmokeRadius 10
+SmokeTime 100
+SmokeParticles largesmoke
+
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+
+SmokeEffect 2 60 1
+
+SpinWhenThrown true
+////Throwing
+ThrowDelay 10
+//ThrowSound <sound>
+//DropItemOnThrow <itemID.damage>
+////Physics
+DetonateOnImpact false
+Bounciness 0.5
+HitEntityDamage 1
+ThrowSpeed 2
+FallSpeed 0.8
+BreaksGlass true
+PenetratesBlocks false
+HitBoxSize 0.5
+Sticky false
+//BounceSound <sound>
+////Detonation conditions
+VehicleProximityTrigger -1.0
+LivingProximityTrigger -1.0
+Fuse 80
+DetonateWhenShot true
+Remote false
+//DespawnTime 0
+PrimeDelay 0
+////Detonation
+FireRadius 0.0
+ExplosionRadius 0.0
+ExplosionBreaksBlocks false
+//DropItemOnDetonate <itemID.damage>
+//Detonate Sound <sound>
+////Misc
+MeleeDamage 1

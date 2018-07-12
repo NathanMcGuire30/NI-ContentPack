@@ -1,0 +1,14 @@
+Name Brass Cog
+ShortName dwBrassCog
+Icon part_BrassCog
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//ItemID 23899
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+RecipeOutput 2
+Recipe B dwIngotBrass S dwSteelIngot
+ B 
+BSB
+ B 

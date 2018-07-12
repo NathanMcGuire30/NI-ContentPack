@@ -1,0 +1,18 @@
+Name Sunny Gear
+ShortName dwSunnyGear
+Icon penbarSunnyGear
+Colour 255 255 255
+
+Type Head
+Model dwdefence.SunnyGear
+Defence 0
+ArmourTexture Penbar_CasualUniform
+MoveSpeedModifier 1.1
+KnockbackModifier 1.0
+
+ModelScale 0.5
+
+Recipe G glass K dwKipliteArmor
+   
+GKG
+   

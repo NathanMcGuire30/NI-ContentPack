@@ -1,0 +1,101 @@
+Name Skymare Corporation Terminal
+ShortName skymareCorporation
+TopTexture SkymareBoxTop
+SideTexture SkymareBoxSide
+BottomTexture boxBottom
+GunBoxID 320
+Recipe I ingotIron P dwSkymarePolymer U dwElectricalUnit D dwElectricDust
+ I 
+DUD
+PPP
+//AddGun shortName amountOf item
+//AddAmmo must come immediately after AddGun for them to be in the same slot
+//The names of the items / blocks are those in the code, with some exceptions such as ingotIron (ingotingotIron) and gunpowder (sulphur)
+//And with parts from this mod, they are the shortName of the item
+//Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
+//NumGuns must come before all the addGun lines and must be correct.
+NumGuns 40
+
+AddGun dwGs5 1 dwGunPart 6 dwSkymareFiberglass 5 dwSteelIngot 3 dwElectricDust
+AddAmmo dwGs5Ammo 13 dwMetalRounds 4 dwSteelIngot
+AddAltAmmo dwGs5ShockAmmo 13 dwShockRounds 4 dwSteelIngot
+
+AddGun dwGsx 1 dwGunPart 8 dwSkymareFiberglass 5 dwSteelIngot
+AddAmmo dwGsxAmmo 13 dwMetalRounds 4 dwSteelIngot
+
+AddGun dwUmx45 1 dwGunPart 7 dwSkymareFiberglass 5 dwSteelIngot
+AddAmmo dwUmx45Ammo 8 dwMetalRounds 4 dwSkymareFiberglass
+
+AddGun dwSkyChaser 2 dwGunPart 7 dwSkymareFiberglass 5 dwSteelIngot
+AddAmmo dwSkyChaserAmmo 10 dwShockRounds 6 dwSteelIngot
+
+AddGun dwMatriarchSkymare 1 dwGunPart 6 dwSkymareFiberglass 2 dwElectricDust
+AddAmmo dwMatriarchSkymareAmmo 6 dwMetalRounds 2 dwSkymarePolymer 2 dwIngotElectric
+
+AddGun dwPwr57 2 dwGunPart 6 dwSkymareFiberglass 6 dwSteelIngot
+AddAmmo dwPwrAmmo 32 dwMetalRounds 6 dwSteelIngot
+
+AddGun dwInkstriker45 2 dwGunPart 10 dwSkymareFiberglass 4 dwSteelIngot
+AddAmmo dwInkstriker45Ammo 25 dwMetalRounds 4 dwSteelIngot
+
+AddGun dwDusterwing 2 dwGunPart 8 dwSkymareFiberglass 6 dwSteelIngot
+AddAmmo dwDusterwingAmmo 40 dwMetalRounds 6 dwSteelIngot
+
+AddGun dwAegisDisrupter 2 dwGunPart 6 dwSkymareFiberglass 2 dwSkymarePolymer 4 dwSteelIngot
+AddAmmo dwAegisDisrupterAmmo 32 dwMetalRounds 6 dwSteelIngot
+
+AddGun dwCrossfire 4 dwSteelIngot 6 dwSkymareFiberglass 3 dwSkymarePolymer 1 dwElectricalUnit
+AddAmmo dwCrossfireAmmo 1 dwMetalRounds 1 dwSteelIngot 2 gunpowder
+
+AddGun dwMpar 1 dwReceiverPart 10 dwSkymarePolymer 8 dwSteelIngot 4 dwIngotElectric
+AddAmmo dwMparAmmo 30 dwShockRounds 6 dwSkymareFiberglass
+
+AddGun dwHpar 1 dwReceiverPart 10 dwSkymarePolymer 8 dwSteelIngot 4 dwIngotElectric
+AddAmmo dwHparAmmo 70 dwShockRounds 8 dwSkymareFiberglass 4 dwSteelIngot
+
+AddGun dwSc7 2 dwReceiverPart 10 dwSkymarePolymer 10 dwSteelIngot 6 dwIngotElectric
+AddAmmo dwSc7Ammo 15 dwShockRounds 8 dwSteelIngot
+
+AddGun dwFeathershock 1 dwReceiverPart 10 dwSkymarePolymer 8 dwSteelIngot 6 dwIngotElectric
+AddAmmo dwFeathershockAmmo 10 dwShockRounds 8 dwSteelIngot
+
+AddGun dwCloudpuncher 1 dwReceiverPart 1 dwSmcThreatSight 12 dwSkymarePolymer 8 dwSteelIngot 4 dwElectricalUnit
+AddAmmo dwCloudpuncherAmmo 5 dwMetalRounds 6 dwSkymarePolymer 6 dwSteelIngot
+
+AddGun dwSkyswatter 1 dwReceiverPart 1 dwScopePart 20 dwSkymarePolymer 4 dwMidSteelIngot 2 dwElectricalUnit
+AddAmmo dwSkyswatterAmmo 3 dwFragSkymare 2 dwSkymarePolymer 2 dwMidSteelIngot
+AddAltAmmo dwSkyswatterTrackAmmo 3 dwFragSkymare 8 dwMidSteelIngot 2 dwElectricalUnit
+
+AddGun dwSkylighter 1 dwReceiverPart 1 dwSmcMilspecSight 10 dwSkymarePolymer 4 dwMidSteelIngot 4 dwIngotElectric
+AddAmmo dwSkylighterAmmo 10 dwIngotElectric 4 dwSkymarePolymer
+
+AddGun dwDuskDusterwing 1 dwReceiverPart 1 dwScopePart 9 dwSkymarePolymer 12 dwSkymareFiberglass 12 dwSteelIngot 3 diamond
+AddAmmo dwDuskDusterwingAmmo 32 dwIncendiaryRounds 8 dwSkymarePolymer 1 diamond
+
+
+//Attachments
+AddGun dwSmcFlipSight 1 dwScopePart 3 dwSkymareFiberglass
+AddGun dwSmcRedDotSight 1 dwScopePart 4 dwSkymareFiberglass
+AddGun dwSmcCompactHoloSight 1 dwScopePart 6 dwSkymareFiberglass 1 dwElectricalUnit
+AddGun dwSmcMilspecSight 1 dwScopePart 6 dwSkymareFiberglass 2 dwElectricalUnit
+AddGun dwSmcReflexSight 2 dwScopePart 4 dwSkymarePolymer 4 dwSteelIngot
+AddGun dwSmcThreatSight 2 dwScopePart 6 dwSkymareFiberglass 4 dwElectricalUnit
+AddGun dwSmcNightScope 3 dwScopePart 4 dwSkymareFiberglass
+AddGun dwSmcPipeStock 3 dwSkymareFiberglass 1 dwGunBarrel
+AddGun dwSmcSMTPStock 4 dwSkymareFiberglass 6 dwSteelIngot
+AddGun dwSmcSolidStock 4 dwSkymareFiberglass 2 dwSkymarePolymer 6 dwSteelIngot
+AddGun dwSmcSharedMuzzleBrake 4 dwSkymareFiberglass 6 dwSteelIngot
+AddGun dwSmcPistolComp 4 dwSkymarePolymer 4 dwSteelIngot
+AddGun dwSmcShotgunComp 4 dwSkymareFiberglass 4 dwSteelIngot
+AddGun dwSmcSharedSuppressor 3 dwSkymareFiberglass 3 cloth.0
+AddGun dwSmcPistolSuppressor 6 dwSkymareFiberglass 6 cloth.0
+AddGun dwSmcSuppressorSmg 6 dwSkymareFiberglass 6 cloth.0
+AddGun dwSmcRifleGrip 8 dwSkymareFiberglass
+AddGun dwSmcPistolLight 6 dwSkymareFiberglass 2 dwSkymarePolymer 3 dwElectricalUnit
+AddGun dwSmcStandardLight 10 dwSkymareFiberglass 6 dwSkymarePolymer 4 dwElectricalUnit
+AddGun dwSmcSpeedMod 1 dwScopePart 4 dwSkymareFiberglass 3 dwIngotElectric
+
+
+//Equipment
+AddGun dwFragSkymare 1 dwGrenadePin 4 dwSkymareFiberglass 6 gunpowder
+AddGun dwShockSkymare 1 dwGrenadePin 4 dwSkymareFiberglass 3 gunpowder 8 dwElectricDust
