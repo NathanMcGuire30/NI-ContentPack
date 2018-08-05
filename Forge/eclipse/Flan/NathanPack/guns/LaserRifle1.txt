@@ -37,7 +37,10 @@ Texture Skin_Gun_LaserRifle1
 DeployedModel NathanPack.LaserRifle1
 DeployedTexture Skin_Gun_LaserRifle1
 paintjob Icon_Gun_LaserRifle1_White Skin_Gun_LaserRifle1_White white 2 
-
+paintjob Icon_Gun_LaserRifle1_Green Skin_Gun_LaserRifle1_Green green 2 
+paintjob Icon_Gun_LaserRifle1_Tan Skin_Gun_LaserRifle1_Tan yellow 2 
+paintjob Icon_Gun_LaserRifle1_Blue Skin_Gun_LaserRifle1_BLue blue 2 
+paintjob Icon_Gun_LaserRifle1_Black Skin_Gun_LaserRifle1_Black black 2 
 
 //Damage
 Damage 13

@@ -4,17 +4,22 @@
 
 //---Standard-------------------------------------
 // Naming
-Name Reflex Sight
-ShortName NIGreenDotSight
+Name NIHoloSight
+ShortName Holographic Sight
 
 
 // Visuals
-Model NathanPack.NIGreenDotSight
-ModelScale 0.13
-Icon Icon_Gun_NIGreenDotSight
+Model NathanPack.NIHoloSight
+ModelScale .04
+Icon Icon_Gun_NIHoloSight
 
-Description Nathan Industries
+
 // Recipe
+Recipe R yellowDust F fiberglass G thinGlass
+Recipe GGG
+Recipe GRG
+Recipe GGG
+RecipeOutput 1
 
 
 //Misc
@@ -26,7 +31,7 @@ Description Nathan Industries
 
 
 //Visual
-Texture Skin_Gun_NIGreenDotSight
+Texture Skin_Gun_NIHoloSight
 
 
 //Damage
@@ -44,7 +49,7 @@ SpreadMultiplier 1.0
 RecoilMultiplier 0.95
 BulletSpeedMultiplier 1.0
 ReloadTimeMultiplier 1.0
-FOVZoomLevel 2.0
+FOVZoomLevel 3.0
 
 //Weapon Settings
 

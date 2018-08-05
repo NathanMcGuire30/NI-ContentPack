@@ -17,6 +17,8 @@ ModelScale 0.2
 Colour 255 255 255
 Icon Icon_Gun_Deatomizer
 
+paintjob Icon_Gun_Deatomizer_rainbow Skin_Gun_Deatomizer_rainbow red 1 orange 1 yellow 1 green 1 blue 1 purple 1
+
 
 // Recipe
 
