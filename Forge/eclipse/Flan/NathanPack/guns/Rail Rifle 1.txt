@@ -1,0 +1,80 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name RailRifle
+ShortName Rail Rifle 1
+ItemID Your ID
+
+
+// Visuals
+Model NathanPack.RailRifle
+ModelScale 0.25
+Colour 255 255 255
+Icon Icon_Gun_RailRifle
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model NathanPack.RailRifle
+ModelScale 0.25
+Texture Skin_Gun_RailRifle
+DeployedModel NathanPack.RailRifle
+DeployedTexture Skin_Gun_RailRifle
+
+
+//Damage
+Damage 10
+
+
+//Ammo
+Ammo kar98kAmmo
+BulletSpeed 10.0
+
+
+//Attachments
+AllowBarrelAttachments False
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments False
+
+
+//Weapon Settings
+Accuracy 3
+Mode SEMIAUTO
+Recoil 10
+ReloadTime 60
+ShootDelay 30
+
+
+//Shield
+
+
+//Zoom
+Scope None
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+
+//------------------------------------------------
