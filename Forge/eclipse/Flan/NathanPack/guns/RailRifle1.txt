@@ -11,7 +11,7 @@ ItemID Your ID
 
 // Visuals
 Model NathanPack.RailRifle
-ModelScale 0.3
+ModelScale 0.35
 Colour 255 255 255
 Icon Icon_Gun_RailRifle
 
@@ -30,7 +30,7 @@ Deployable False
 
 //Visual
 Model NathanPack.RailRifle
-ModelScale 0.3
+ModelScale 0.35
 Texture Skin_Gun_RailRifle
 DeployedModel NathanPack.RailRifle
 DeployedTexture Skin_Gun_RailRifle
@@ -46,10 +46,12 @@ BulletSpeed 10.0
 
 
 //Attachments
-AllowBarrelAttachments False
+AllowAllAttachments True
+AllowBarrelAttachments True
 AllowScopeAttachments True
 AllowStockAttachments False
-AllowGripAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 3
 
 
 //Weapon Settings
