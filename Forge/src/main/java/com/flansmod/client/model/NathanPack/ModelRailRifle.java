@@ -2,7 +2,7 @@
 // Copyright (C) 2018 Minecraft-SMP.de
 // This file is for Flan's Flying Mod Version 4.0.x+
 
-// Model: RailRifle
+// Model: Rail Rifle 1
 // Model Creator: 
 // Created on: 14.12.2018 - 15:21:52
 // Last changed on: 14.12.2018 - 15:21:52

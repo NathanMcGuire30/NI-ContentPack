@@ -4,14 +4,14 @@
 
 //---Standard-------------------------------------
 // Naming
-Name RailRifle
-ShortName Rail Rifle 1
+Name Rail Rifle 1
+ShortName RailRifle1
 ItemID Your ID
 
 
 // Visuals
 Model NathanPack.RailRifle
-ModelScale 0.25
+ModelScale 0.3
 Colour 255 255 255
 Icon Icon_Gun_RailRifle
 
@@ -30,7 +30,7 @@ Deployable False
 
 //Visual
 Model NathanPack.RailRifle
-ModelScale 0.25
+ModelScale 0.3
 Texture Skin_Gun_RailRifle
 DeployedModel NathanPack.RailRifle
 DeployedTexture Skin_Gun_RailRifle
