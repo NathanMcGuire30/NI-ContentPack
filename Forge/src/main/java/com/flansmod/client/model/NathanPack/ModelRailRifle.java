@@ -234,7 +234,7 @@ public class ModelRailRifle extends ModelGun //Same as Filename
 
 		scopeAttachPoint = new Vector3f(7F /16F, 16F /16F, 0F /16F);
 
-		gripAttachPoint = new Vector3f(21 /16F, 7F /16F, 0F /16F);
+		gripAttachPoint = new Vector3f(21 /16F, 4F /16F, 0F /16F);
 
 
 		thirdPersonOffset = new Vector3f(0 /16F, -1F /16F, 0F /16F);

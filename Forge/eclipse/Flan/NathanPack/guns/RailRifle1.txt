@@ -36,6 +36,11 @@ DeployedModel NathanPack.RailRifle
 DeployedTexture Skin_Gun_RailRifle
 
 
+paintjob Icon_Gun_RailRifle_Green Skin_Gun_RailRifle_Green green 2 
+paintjob Icon_Gun_RailRifle_Tan Skin_Gun_RailRifle_Tan yellow 2 
+paintjob Icon_Gun_RailRifle_Blue Skin_Gun_RailRifle_Blue blue 2 
+paintjob Icon_Gun_RailRifle_White Skin_Gun_RailRifle_White white 2
+
 //Damage
 Damage 10
 
@@ -58,7 +63,7 @@ NumGenericAttachmentSlots 3
 //Weapon Settings
 Accuracy 1
 Mode SemiAuto
-Recoil 20
+Recoil 10
 ReloadTime 50
 ShootDelay 4
 

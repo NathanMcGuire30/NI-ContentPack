@@ -42,7 +42,7 @@ Silencer false
 MeleeDamageMultiplier 1.0
 DamageMultiplier 3.0
 SpreadMultiplier 0.2
-RecoilMultiplier 2.0
+RecoilMultiplier 3.0
 BulletSpeedMultiplier 2.5
 ReloadTimeMultiplier 1.2
 

@@ -4,8 +4,8 @@
 
 //---Standard-------------------------------------
 // Naming
-Name NIHoloSight
-ShortName Holographic Sight
+Name Holographic Sight
+ShortName NIHoloSight
 
 
 // Visuals
