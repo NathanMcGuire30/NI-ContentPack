@@ -4,16 +4,16 @@
 
 //---Standard-------------------------------------
 // Naming
-Name NI Rail Sniper Rifle
-ShortName railsniper
+Name Rail Rifle 1
+ShortName RailRifle1
 ItemID Your ID
 
 
 // Visuals
-Model NathanPack.railsniper
-ModelScale .25
+Model NathanPack.RailRifle
+ModelScale 0.35
 Colour 255 255 255
-
+Icon Icon_Gun_RailRifle
 
 
 // Recipe
@@ -29,16 +29,20 @@ Deployable False
 
 
 //Visual
-Texture Skin_Gun_railsniper
-Icon Icon_Gun_railsniper
+Model NathanPack.RailRifle
+ModelScale 0.35
+Texture Skin_Gun_RailRifle
+DeployedModel NathanPack.RailRifle
+DeployedTexture Skin_Gun_RailRifle
 
-paintjob Icon_Gun_railsniper_Green Skin_Gun_railsniper_Green green 2 
-paintjob Icon_Gun_railsniper_Tan Skin_Gun_railsniper_Tan yellow 2 
-paintjob Icon_Gun_railsniper_Blue Skin_Gun_railsniper_Blue blue 2 
-paintjob Icon_Gun_railsniper_White Skin_Gun_railsniper_White white 2
+
+paintjob Icon_Gun_RailRifle_Green Skin_Gun_RailRifle_Green green 2 
+paintjob Icon_Gun_RailRifle_Tan Skin_Gun_RailRifle_Tan yellow 2 
+paintjob Icon_Gun_RailRifle_Blue Skin_Gun_RailRifle_Blue blue 2 
+paintjob Icon_Gun_RailRifle_White Skin_Gun_RailRifle_White white 2
 
 //Damage
-Damage 30
+Damage 10
 
 
 //Ammo
@@ -51,17 +55,22 @@ BulletSpeed 25.0
 AllowAllAttachments True
 AllowBarrelAttachments True
 AllowScopeAttachments True
-AllowStockAttachments True
+AllowStockAttachments False
 AllowGripAttachments True
+NumGenericAttachmentSlots 3
 
 
 //Weapon Settings
 Accuracy 1
 Mode SemiAuto
-Recoil 20
+Recoil 10
 ReloadTime 50
-ShootDelay 12
+ShootDelay 4
+
 CanShootUnderwater False
+
+UsableByMechas True
+UsableByPlayers True
 
 //Shield
 

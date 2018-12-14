@@ -4,22 +4,18 @@
 
 //---Standard-------------------------------------
 // Naming
-Name Holographic Sight
-ShortName NIHoloSight
+Name Rail Rifle extra length barrel
+ShortName RailRifleBarrel
+ItemID Your ID
 
 
 // Visuals
-Model NathanPack.NIHoloSight
-ModelScale .04
-Icon Icon_Gun_NIHoloSight
+Model NathanPack.RailRifleBarrel
+ModelScale 0.35
+Icon Icon_Gun_RailRifleBarrel
 
-
+Description Nathan Industries
 // Recipe
-Recipe R yellowDust F fiberglass G thinGlass
-Recipe GGG
-Recipe GRG
-Recipe GGG
-RecipeOutput 1
 
 
 //Misc
@@ -31,7 +27,7 @@ RecipeOutput 1
 
 
 //Visual
-Texture Skin_Gun_NIHoloSight
+Texture Skin_Gun_RailRifle
 
 
 //Damage
@@ -41,15 +37,14 @@ Texture Skin_Gun_NIHoloSight
 
 
 //Attachments
-AttachmentType sights
+AttachmentType barrel
 Silencer false
 MeleeDamageMultiplier 1.0
-DamageMultiplier 1.0
-SpreadMultiplier 1.0
-RecoilMultiplier 0.95
-BulletSpeedMultiplier 1.0
-ReloadTimeMultiplier 1.0
-FOVZoomLevel 3.0
+DamageMultiplier 3.0
+SpreadMultiplier 0.2
+RecoilMultiplier 3.0
+BulletSpeedMultiplier 2.5
+ReloadTimeMultiplier 1.2
 
 //Weapon Settings
 
@@ -58,7 +53,6 @@ FOVZoomLevel 3.0
 
 
 //Zoom
-ZoomLevel 1.0
 
 
 //Melee
