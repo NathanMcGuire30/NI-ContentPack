@@ -1,0 +1,66 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name Rail Rifle extra length barrel
+ShortName RailRifleBarrel
+ItemID Your ID
+
+
+// Visuals
+Model NathanPack.RailRifleBarrel
+ModelScale 0.35
+Icon Icon_Gun_RailRifleBarrel
+
+Description Nathan Industries
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+
+
+//Visual
+Texture Skin_Gun_RailRifle
+
+
+//Damage
+
+
+//Ammo
+
+
+//Attachments
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 3.0
+SpreadMultiplier 0.2
+RecoilMultiplier 2.0
+BulletSpeedMultiplier 2.5
+ReloadTimeMultiplier 1.2
+
+//Weapon Settings
+
+
+//Shield
+
+
+//Zoom
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+
+//------------------------------------------------

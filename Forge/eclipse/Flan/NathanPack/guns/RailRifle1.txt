@@ -41,8 +41,9 @@ Damage 10
 
 
 //Ammo
-Ammo kar98kAmmo
-BulletSpeed 10.0
+Ammo RailSniperExplosiveAmmo
+Ammo railsniperAmmo
+BulletSpeed 25.0
 
 
 //Attachments
@@ -55,12 +56,16 @@ NumGenericAttachmentSlots 3
 
 
 //Weapon Settings
-Accuracy 3
-Mode SEMIAUTO
-Recoil 10
-ReloadTime 60
-ShootDelay 30
+Accuracy 1
+Mode SemiAuto
+Recoil 20
+ReloadTime 50
+ShootDelay 4
 
+CanShootUnderwater False
+
+UsableByMechas True
+UsableByPlayers True
 
 //Shield
 
@@ -76,7 +81,7 @@ Scope None
 
 
 //Sound
-ShootSound kar98kShoot
+ShootSound RailgunShoot
 ReloadSound kar98kReload
 
 //------------------------------------------------

@@ -61,7 +61,7 @@ Mode SemiAuto
 Recoil 20
 ReloadTime 50
 ShootDelay 12
-
+CanShootUnderwater False
 
 //Shield
 
